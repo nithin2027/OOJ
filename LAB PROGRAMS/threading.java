@@ -31,7 +31,7 @@ class threading
 {
     public static void main(String args[])
     {
-        new NewThread("CORONA",10000,2);
-        new NewThread("OMICRON",2000,10);
+        new NewThread("BMS College of engineering",10000,2);
+        new NewThread("CSE",2000,10);
     }
 }
